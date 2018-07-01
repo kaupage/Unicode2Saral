@@ -15,7 +15,6 @@
 'specific language governing permissions and limitations
 'under the License.
 
-'Developer - K.Page
 
 Function mergeArrays(ByVal arr1 As Variant, ByVal arr2 As Variant) As Variant
 'joins 2 arrays
