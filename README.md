@@ -19,7 +19,7 @@ It covers diacritical and vowel signs in Devanagari.
   
 * UnicodeToSaral() is the conversion script
 * Mapping array are written next to each other with font name prefix (e.g. level0_Uni maps to level0_Saral)
-* line 152 detects if it is a ि , it needs to be treated differently as it is positioned post letter in Saral and pre letter in Unicode
+* line 169 detects if it is a ि , it needs to be treated differently as it is positioned post letter in Saral and pre letter in Unicode
 * For numbers and symbols, the replacement happens post character replacement.
 
 ## How to Use
